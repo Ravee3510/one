@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1 style="color: violet; font-size: 40px;" align="center">REY CHIITINAIDU PANDINAYALA</h1>
+	<h1 style="color: violet; font-size: 40px;" align="center">MUTHATHATA GARIKI PRANAMLU</h1>
        
 	
 	
